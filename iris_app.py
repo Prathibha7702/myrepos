@@ -74,5 +74,5 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Initial code was developed by` [Prathibha]'
+    '`Initial code was developed by` [Prathibha]')
 
